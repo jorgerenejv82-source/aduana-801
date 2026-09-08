@@ -1,0 +1,17 @@
+{
+  "name": "Aduanas 801 — Importa con Confianza",
+  "short_name": "Aduanas 801",
+  "description": "La app para Pymes que importan o exportan en México. Calcula costos, entiende tu pedimento y habla con tu agente de igual a igual.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#F59E0B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ],
+  "categories": ["business", "finance", "productivity"],
+  "lang": "es-MX",
+  "dir": "ltr"
+}

@@ -1,0 +1,374 @@
+﻿Analyzing aduana_801...                                         
+
+   info - Use 'const' for final variables initialized to a constant value - generate_files.dart:5:3 - prefer_const_declarations
+   info - Don't invoke 'print' in production code - generate_files.dart:769:3 - avoid_print
+   info - Parameter 'key' could be a super parameter - lib\features\ai_copilot\ai_copilot_screen.dart:6:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\features\ai_copilot\ai_copilot_screen.dart:284:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ai_copilot\ai_copilot_screen.dart:296:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ai_copilot\ai_copilot_screen.dart:300:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ai_copilot\ai_copilot_screen.dart:414:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ai_copilot\ai_copilot_screen.dart:455:19 - prefer_const_constructors
+   info - Unnecessary use of 'toList' in a spread - lib\features\ai_copilot\ai_copilot_screen.dart:489:57 - unnecessary_to_list_in_spreads
+   info - Unnecessary use of 'toList' in a spread - lib\features\ai_copilot\ai_copilot_screen.dart:501:75 - unnecessary_to_list_in_spreads
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:123:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:173:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:173:27 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\alerts\centro_alertas_screen.dart:173:89 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:174:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:211:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:211:53 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\alerts\centro_alertas_screen.dart:211:87 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\audit\audit_screen.dart:38:27 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\audit\audit_screen.dart:39:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\audit\audit_screen.dart:40:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\audit\audit_screen.dart:41:19 - prefer_const_constructors
+   info - Statements in a for should be enclosed in a block - lib\features\audit\blockchain_ledger_screen.dart:22:33 - curly_braces_in_flow_control_structures
+   info - Statements in a for should be enclosed in a block - lib\features\audit\blockchain_ledger_screen.dart:24:33 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\auth\role_selection_screen.dart:63:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\auth\role_selection_screen.dart:75:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\auth\role_selection_screen.dart:87:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:75:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:115:88 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:115:111 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:120:211 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:136:7 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:136:21 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:157:16 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:198:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:198:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:213:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:213:93 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:213:107 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:215:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:215:93 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:215:107 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:241:16 - prefer_const_constructors
+   info - Use 'const' for final variables initialized to a constant value - lib\features\calculator\calculator_screen.dart:272:5 - prefer_const_declarations
+   info - Use 'const' for final variables initialized to a constant value - lib\features\calculator\calculator_screen.dart:297:5 - prefer_const_declarations
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:332:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:332:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:387:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:387:93 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\calculator_screen.dart:387:107 - prefer_const_literals_to_create_immutables
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\features\calculator\calculator_screen.dart:399:19 - sized_box_for_whitespace
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:415:16 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\calculator_screen.dart:449:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:195:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:220:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:225:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\cotizador_servicios_screen.dart:225:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:310:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:353:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:407:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:412:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\cotizador_servicios_screen.dart:412:93 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:112:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:134:17 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\landed_cost_screen.dart:134:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:151:17 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\calculator\landed_cost_screen.dart:151:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:192:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:320:144 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:320:177 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\calculator\landed_cost_screen.dart:320:211 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\classifier\classifier_screen.dart:28:27 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\classifier\classifier_screen.dart:29:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\classifier\classifier_screen.dart:36:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\classifier\classifier_screen.dart:43:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\aml_scanner_screen.dart:10:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\aml_scanner_screen.dart:12:16 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\compliance\aml_scanner_screen.dart:13:21 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:34:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:35:26 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\compliance\compliance_screen.dart:36:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:37:23 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:39:23 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\compliance\compliance_screen.dart:50:27 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:51:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:52:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\compliance\compliance_screen.dart:53:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\cashflow_screen.dart:10:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\cashflow_screen.dart:12:16 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\financial\cashflow_screen.dart:13:21 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\cashflow_screen.dart:14:13 - prefer_const_constructors
+   info - Statements in a for should be enclosed in a block - lib\features\financial\cotizador_door_to_door_screen.dart:71:219 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\cotizador_door_to_door_screen.dart:118:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\cotizador_door_to_door_screen.dart:118:81 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\features\financial\financial_dashboard_screen.dart:7:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:83:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:85:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:87:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:331:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:332:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:343:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:344:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:355:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\financial\financial_dashboard_screen.dart:356:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:244:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:378:25 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:379:34 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:381:36 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\home\home_screen.dart:383:41 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:655:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:661:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:662:26 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\home\home_screen.dart:664:31 - prefer_const_literals_to_create_immutables
+   info - The parameter name 'sum' matches a visible type name - lib\features\home\home_screen.dart:880:48 - avoid_types_as_parameter_names
+   info - Unnecessary use of string interpolation - lib\features\home\home_screen.dart:920:55 - unnecessary_string_interpolations
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1048:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\home\home_screen.dart:1051:23 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1052:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1053:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1054:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1055:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1056:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1057:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1144:12 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\home\home_screen.dart:1146:14 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\hubs\broker_hub_screen.dart:30:27 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\broker_hub_screen.dart:31:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\broker_hub_screen.dart:32:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\broker_hub_screen.dart:33:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\broker_hub_screen.dart:34:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\broker_hub_screen.dart:35:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\broker_hub_screen.dart:36:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:59:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:70:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:91:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:101:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:112:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:124:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:138:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:148:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:159:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:166:3 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\catalogo_apps_screen.dart:256:13 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\hubs\catalogo_apps_screen.dart:256:27 - prefer_const_literals_to_create_immutables
+   info - Unnecessary use of string interpolation - lib\features\hubs\ctpat_hub_screen.dart:279:24 - unnecessary_string_interpolations
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\ctpat_hub_screen.dart:358:168 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\ctpat_hub_screen.dart:358:201 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\ctpat_hub_screen.dart:358:235 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\virtual_ops_screen.dart:138:62 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\virtual_ops_screen.dart:169:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\hubs\virtual_ops_screen.dart:335:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\agace_screen.dart:109:151 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\agace_screen.dart:109:184 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\agace_screen.dart:109:218 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\ar_visor_screen.dart:187:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\ar_visor_screen.dart:187:35 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\ar_visor_screen.dart:188:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\ar_visor_screen.dart:188:35 - prefer_const_constructors
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:31:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:33:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:35:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:37:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:39:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:41:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:43:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:45:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:47:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\intelligence\copiloto_screen.dart:49:7 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\copiloto_screen.dart:130:23 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\copiloto_screen.dart:130:57 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\copiloto_screen.dart:130:69 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\intelligence\copiloto_screen.dart:141:29 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:167:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:167:36 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:179:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:179:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:180:22 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\kanban\kanban_screen.dart:180:71 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:181:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:202:68 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:202:101 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:202:135 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:209:81 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:226:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\kanban\kanban_screen.dart:301:84 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ml_predictor\ml_audit_predictor_screen.dart:111:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ml_predictor\ml_audit_predictor_screen.dart:182:12 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ml_predictor\ml_audit_predictor_screen.dart:234:7 - prefer_const_constructors
+   info - Unnecessary use of string interpolation - lib\features\ml_predictor\ml_audit_predictor_screen.dart:249:16 - unnecessary_string_interpolations
+   info - Use 'const' with the constructor to improve performance - lib\features\ml_predictor\ml_audit_predictor_screen.dart:271:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\ml_predictor\ml_audit_predictor_screen.dart:298:7 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\pre_glosa\saai_screen.dart:145:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\pre_glosa\saai_screen.dart:217:26 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\pre_glosa\saai_screen.dart:219:31 - prefer_const_literals_to_create_immutables
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\pre_glosa\saai_screen.dart:483:42 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\pre_glosa\saai_screen.dart:526:42 - use_build_context_synchronously
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\previo\previo_screen.dart:34:27 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\previo\previo_screen.dart:35:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\previo\previo_screen.dart:36:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\previo\previo_screen.dart:37:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\profile\configuracion_screen.dart:534:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\profile\configuracion_screen.dart:535:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\profile\configuracion_screen.dart:544:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\profile\configuracion_screen.dart:545:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\profile\configuracion_screen.dart:554:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\profile\configuracion_screen.dart:555:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\profile\configuracion_screen.dart:564:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\profile\configuracion_screen.dart:565:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\anexo22_screen.dart:63:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\anexo22_screen.dart:64:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\anexo22_screen.dart:86:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\anexo22_screen.dart:87:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\anexo30_screen.dart:170:17 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\anexo30_screen.dart:170:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\anexo30_screen.dart:171:19 - prefer_const_constructors
+   info - Use 'const' for final variables initialized to a constant value - lib\features\regulatory\anexo30_screen.dart:310:5 - prefer_const_declarations
+   info - Use 'const' for final variables initialized to a constant value - lib\features\regulatory\anexo30_screen.dart:311:5 - prefer_const_declarations
+   info - Use 'const' for final variables initialized to a constant value - lib\features\regulatory\anexo30_screen.dart:312:5 - prefer_const_declarations
+   info - Use 'const' for final variables initialized to a constant value - lib\features\regulatory\anexo30_screen.dart:313:5 - prefer_const_declarations
+   info - Use 'const' for final variables initialized to a constant value - lib\features\regulatory\anexo30_screen.dart:329:5 - prefer_const_declarations
+   info - Parameter 'key' could be a super parameter - lib\features\regulatory\apendice8_screen.dart:14:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\apendice8_screen.dart:60:56 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\apendice8_screen.dart:60:74 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\apendice8_screen.dart:67:56 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\apendice8_screen.dart:67:74 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\auditor_tmec_bom_screen.dart:226:13 - prefer_const_constructors
+   info - Statements in a for should be enclosed in a block - lib\features\regulatory\comparador_incoterms_screen.dart:38:83 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\comparador_incoterms_screen.dart:161:30 - prefer_const_constructors
+   info - Unnecessary braces in a string interpolation - lib\features\regulatory\conciliador_visor_b_screen.dart:87:12 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\features\regulatory\conciliador_visor_b_screen.dart:88:12 - unnecessary_brace_in_string_interps
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\conciliador_visor_b_screen.dart:116:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\conciliador_visor_b_screen.dart:184:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\conciliador_visor_b_screen.dart:214:106 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\conciliador_visor_b_screen.dart:214:212 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\conciliador_visor_b_screen.dart:214:226 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\consultor_tigie_screen.dart:209:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\consultor_tigie_screen.dart:211:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\cross_match_glosa_screen.dart:102:27 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\cross_match_glosa_screen.dart:102:90 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\cuotas_compensatorias_screen.dart:444:25 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\features\regulatory\draft_pedimento_screen.dart:17:9 - use_super_parameters
+   info - The private field _partidas could be 'final' - lib\features\regulatory\draft_pedimento_screen.dart:35:18 - prefer_final_fields
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\draft_pedimento_screen.dart:158:24 - prefer_const_constructors
+   info - Unnecessary use of 'toList' in a spread - lib\features\regulatory\draft_pedimento_screen.dart:299:16 - unnecessary_to_list_in_spreads
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\escritos_legales_screen.dart:524:154 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\escritos_legales_screen.dart:524:187 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\escritos_legales_screen.dart:524:221 - prefer_const_constructors
+   info - Statements in a for should be enclosed in a block - lib\features\regulatory\generador_doda_pita_screen.dart:102:245 - curly_braces_in_flow_control_structures
+   info - Unnecessary braces in a string interpolation - lib\features\regulatory\generador_doda_pita_screen.dart:373:79 - unnecessary_brace_in_string_interps
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\regulatory\historial_m3_screen.dart:227:44 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:355:19 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\immex_screen.dart:356:31 - prefer_const_literals_to_create_immutables
+   info - Don't use 'BuildContext's across async gaps - lib\features\regulatory\immex_screen.dart:543:48 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\regulatory\immex_screen.dart:545:48 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:545:70 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:545:88 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:682:51 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:682:65 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:807:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:863:29 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:863:42 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:863:85 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:863:122 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:863:160 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1063:106 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1063:119 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1063:162 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1063:199 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1063:237 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1091:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1091:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\immex_screen.dart:1091:42 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1153:104 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1153:117 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1153:160 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1153:197 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1153:235 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1355:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1355:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1355:66 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\features\regulatory\immex_screen.dart:1367:50 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1430:101 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1430:114 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1430:157 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1430:194 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1430:232 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1446:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1457:99 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1457:112 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1457:149 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1457:187 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1686:156 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1686:193 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1686:231 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1831:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1831:29 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\immex_screen.dart:1831:91 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1847:172 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1847:209 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:1847:247 - prefer_const_constructors
+   info - Statements in an if should be enclosed in a block - lib\features\regulatory\immex_screen.dart:2076:66 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\regulatory\immex_screen.dart:2076:100 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2092:108 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2092:121 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2092:164 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2092:201 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2092:239 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2206:105 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2206:118 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2206:161 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2206:198 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2206:236 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2347:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2349:20 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\immex_screen.dart:2349:83 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2357:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2357:33 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\immex_screen.dart:2357:95 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2375:170 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2375:207 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\immex_screen.dart:2375:245 - prefer_const_constructors
+   info - The private field _diasVenc could be 'final' - lib\features\regulatory\integracion_cuantica_screen.dart:24:10 - prefer_final_fields
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\integracion_cuantica_screen.dart:73:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\integracion_cuantica_screen.dart:73:101 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\integracion_cuantica_screen.dart:175:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\integracion_cuantica_screen.dart:175:43 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\features\regulatory\m3_forensics_screen.dart:24:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\merceologia_screen.dart:410:31 - prefer_const_constructors
+   info - Use 'const' for final variables initialized to a constant value - lib\features\regulatory\merceologia_screen.dart:608:5 - prefer_const_declarations
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\motor_proformas_screen.dart:312:56 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\motor_proformas_screen.dart:332:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\motor_proformas_screen.dart:332:69 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\motor_proformas_screen.dart:332:83 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\motor_proformas_screen.dart:392:56 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\motor_proformas_screen.dart:422:19 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\features\regulatory\motor_proformas_screen.dart:534:26 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\features\regulatory\oea_seciit_screen.dart:432:33 - curly_braces_in_flow_control_structures
+   info - Parameter 'key' could be a super parameter - lib\features\regulatory\pre_validador_m3_screen.dart:21:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\pre_validador_m3_screen.dart:249:35 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\pre_validador_m3_screen.dart:250:44 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\features\regulatory\pre_validador_m3_screen.dart:307:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\rescate_enterprise_screen.dart:408:15 - prefer_const_constructors
+   info - The private field _tipoContenedor could be 'final' - lib\features\regulatory\sli_vgm_generator_screen.dart:59:10 - prefer_final_fields
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\tmec_screen.dart:118:60 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\tmec_screen.dart:236:18 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\tmec_screen.dart:236:32 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:171:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:171:29 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:187:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\warroom_simulator_screen.dart:187:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:188:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:195:22 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:201:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\warroom_simulator_screen.dart:201:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:269:11 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\regulatory\warroom_simulator_screen.dart:269:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:277:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:290:155 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:290:188 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\regulatory\warroom_simulator_screen.dart:290:222 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\sat_radar\sat_radar_screen.dart:79:18 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\sat_radar\sat_radar_screen.dart:79:78 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\sat_radar\sat_radar_screen.dart:302:5 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\features\sat_radar\sat_radar_screen.dart:361:26 - use_build_context_synchronously
+
+flutter : 364 issues found. (ran in 1.1s)
+En línea: 1 Carácter: 140
++ ... ATH = "C:\src\flutter\bin;" + $env:PATH; flutter analyze 2>&1 | Out-F ...
++                                              ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (364 issues found. (ran in 1.1s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

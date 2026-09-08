@@ -1,0 +1,44 @@
+﻿Analyzing lib...                                                
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\home\faq_screen.dart:158:49 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:161:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:162:28 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:164:30 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal - lib\features\home\glosario_screen.dart:166:35 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:169:27 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\home\glosario_screen.dart:198:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\home\glosario_screen.dart:220:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\home\glosario_screen.dart:222:82 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:224:46 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal - lib\features\home\glosario_screen.dart:226:51 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:229:43 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\glosario_screen.dart:230:52 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter. Trying converting 'key' to a super parameter - lib\features\home\learning_center_screen.dart:6:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\learning_center_screen.dart:48:22 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal - lib\features\home\learning_center_screen.dart:50:27 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\home\learning_center_screen.dart:57:19 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\home\learning_center_screen.dart:147:24 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\home\learning_center_screen.dart:149:43 - deprecated_member_use
+warning - Unused import: 'package:go_router/go_router.dart'. Try removing the import directive - lib\features\logistics\timeline_estimator_screen.dart:2:8 - unused_import
+   info - Parameter 'key' could be a super parameter. Trying converting 'key' to a super parameter - lib\features\logistics\timeline_estimator_screen.dart:7:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\logistics\timeline_estimator_screen.dart:41:132 - prefer_const_constructors
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre. Try replacing the use of the deprecated member with the replacement - lib\features\logistics\timeline_estimator_screen.dart:121:13 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre. Try replacing the use of the deprecated member with the replacement - lib\features\logistics\timeline_estimator_screen.dart:130:13 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre. Try replacing the use of the deprecated member with the replacement - lib\features\logistics\timeline_estimator_screen.dart:139:13 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre. Try replacing the use of the deprecated member with the replacement - lib\features\logistics\timeline_estimator_screen.dart:149:13 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre. Try replacing the use of the deprecated member with the replacement - lib\features\logistics\timeline_estimator_screen.dart:155:13 - deprecated_member_use
+   info - Unnecessary use of 'toList' in a spread. Try removing the invocation of 'toList' - lib\features\logistics\timeline_estimator_screen.dart:216:12 - unnecessary_to_list_in_spreads
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\logistics\timeline_estimator_screen.dart:222:59 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter. Trying converting 'key' to a super parameter - lib\features\regulatory\requisitos_producto_screen.dart:6:9 - use_super_parameters
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre. Try replacing the use of the deprecated member with the replacement - lib\features\regulatory\requisitos_producto_screen.dart:94:15 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\regulatory\requisitos_producto_screen.dart:145:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\regulatory\requisitos_producto_screen.dart:203:62 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\regulatory\requisitos_producto_screen.dart:257:30 - prefer_const_constructors
+
+flutter : 34 issues found. (ran in 1.3s)
+En línea: 1 Carácter: 1
++ flutter analyze lib/ --no-pub 2>&1 | Out-File analyze_novato.txt -Enc ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (34 issues found. (ran in 1.3s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

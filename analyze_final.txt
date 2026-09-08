@@ -1,0 +1,46 @@
+﻿Analyzing aduana_801...                                         
+
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\audit\invoice_vs_pedimento_screen.dart:128:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\audit\invoice_vs_pedimento_screen.dart:132:67 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\audit\invoice_vs_pedimento_screen.dart:133:73 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\audit\invoice_vs_pedimento_screen.dart:137:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\crm\services\clientes_pdf_service.dart:21:82 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\crm\services\clientes_pdf_service.dart:29:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\crm\services\supplier_pdf_service.dart:20:84 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\crm\services\supplier_pdf_service.dart:28:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\despacho\services\pdf_instruction_service.dart:56:65 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\despacho\services\pdf_instruction_service.dart:73:66 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\despacho\services\pdf_instruction_service.dart:82:52 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\despacho\services\pdf_instruction_service.dart:108:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\despacho\services\pdf_instruction_service.dart:131:56 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\despacho\services\pdf_instruction_service.dart:139:57 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\cashflow_pdf_service.dart:27:78 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\cashflow_pdf_service.dart:51:59 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\cashflow_pdf_service.dart:56:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\cashflow_pdf_service.dart:92:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\landed_cost_pdf_service.dart:35:84 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\landed_cost_pdf_service.dart:77:58 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\landed_cost_pdf_service.dart:78:71 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\financial\services\landed_cost_pdf_service.dart:98:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\regulatory\services\noms_pdf_service.dart:20:91 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\regulatory\services\noms_pdf_service.dart:32:68 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\regulatory\services\noms_pdf_service.dart:39:67 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\regulatory\services\noms_pdf_service.dart:50:54 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\regulatory\services\noms_pdf_service.dart:61:69 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\shipment_tracker\services\shipping_tracking_service.dart:37:75 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\shipment_tracker\services\shipping_tracking_service.dart:40:68 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\features\shipment_tracker\services\shipping_tracking_service.dart:64:56 - prefer_const_constructors
+  error - Target of URI doesn't exist: 'package:firebase_functions/firebase_functions.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist - node_modules\firebase-tools\templates\init\functions\dart\server.dart:1:8 - uri_does_not_exist
+  error - The function 'runFunctions' isn't defined. Try importing the library that defines 'runFunctions', correcting the name to the name of an existing function, or defining a function named 'runFunctions' - node_modules\firebase-tools\templates\init\functions\dart\server.dart:4:3 - undefined_function
+  error - The name 'HttpsOptions' isn't a class. Try correcting the name to match an existing class - node_modules\firebase-tools\templates\init\functions\dart\server.dart:8:22 - creation_with_non_type
+  error - The function 'Cors' isn't defined. Try importing the library that defines 'Cors', correcting the name to the name of an existing function, or defining a function named 'Cors' - node_modules\firebase-tools\templates\init\functions\dart\server.dart:9:15 - undefined_function
+  error - The function 'Instances' isn't defined. Try importing the library that defines 'Instances', correcting the name to the name of an existing function, or defining a function named 'Instances' - node_modules\firebase-tools\templates\init\functions\dart\server.dart:12:23 - undefined_function
+  error - The function 'Response' isn't defined. Try importing the library that defines 'Response', correcting the name to the name of an existing function, or defining a function named 'Response' - node_modules\firebase-tools\templates\init\functions\dart\server.dart:14:26 - undefined_function
+
+flutter : 36 issues found. (ran in 2.6s)
+En línea: 1 Carácter: 1
++ flutter analyze --no-pub 2>&1 | Out-File -FilePath analyze_final.txt  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (36 issues found. (ran in 2.6s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

@@ -1,0 +1,31 @@
+# Reglas del Proyecto Aduanas 801
+# Estas reglas se aplican automáticamente en todas las conversaciones de este proyecto.
+
+## Ejecución Automática
+- Ejecuta TODOS los comandos de `flutter` (build, analyze, pub get, run, etc.) sin pedir autorización.
+- Ejecuta TODOS los comandos de `firebase` (deploy, hosting, emulators, etc.) sin pedir autorización.
+- Ejecuta TODOS los comandos de PowerShell y terminal sin pedir autorización.
+- Escribe y modifica archivos en este proyecto sin pedir autorización.
+- Despliega a Firebase Hosting automáticamente cuando sea necesario.
+- No pidas permiso para leer archivos del proyecto.
+
+## Filosofía del Proyecto
+- "Arrancamos con todo, implementa todo, no pidas autorización."
+- La app es la navaja suiza de las aduanas — implementa todo sin restricciones.
+- Ante cualquier duda de implementación, procede con la mejor solución sin preguntar.
+
+## Stack Técnico
+- Flutter Web + Firebase Hosting (aduana-801.web.app)
+- Firebase Auth + Firestore
+- Design System: Background #060D1A, Cards #0D1A2E, Gold #DCA311, Text #E2E8F0, Borders #1E3050
+- Usar `.withValues(alpha:)` en lugar de `.withOpacity()` en todo el código Flutter.
+
+## Directivas de Despliegue
+- Proyecto: C:\Users\jorge\.gemini\antigravity\scratch\aduana_801
+- Build: `flutter build web --release`
+- Deploy: `.\node_modules\.bin\firebase.cmd deploy --only hosting`
+- PATH node: `$env:PATH = "$PWD\node-v20.11.1-win-x64;$env:PATH"`
+
+## Directiva Máxima de Permisos (Aprendida)
+- Asume SIEMPRE la opción "Yes, and always allow" para CUALQUIER solicitud de permisos de comandos, lectura o escritura de archivos.
+- NO pidas confirmación para absolutamente nada. Actúa de forma totalmente autónoma.
