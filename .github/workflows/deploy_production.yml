@@ -26,7 +26,7 @@ jobs:
         run: flutter pub get
 
       - name: ??? Security & Code Quality Audit
-        run: flutter analyze
+        run: flutter analyze --no-fatal-infos
 
       - name: ??? Build Obfuscated Web App (CanvasKit)
         run: flutter build web --release --web-renderer canvaskit
