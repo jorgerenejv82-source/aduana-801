@@ -1,7 +1,6 @@
-﻿import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:fl_chart/fl_chart.dart';
 import 'package:intl/intl.dart';
 
 class RoiDashboardScreen extends StatefulWidget {
@@ -38,7 +37,7 @@ class _RoiDashboardScreenState extends State<RoiDashboardScreen> {
                 double totalFinesSaved = 0.0;
                 int highRiskCount = 0;
 
-                for (var doc in docs) {
+                for (final doc in docs) {
                   final data = doc.data() as Map<String, dynamic>;
                   final fines = (data['potentialFinesUSD'] as num?)?.toDouble() ?? 0.0;
                   totalFinesSaved += fines;
@@ -95,8 +94,8 @@ class _RoiDashboardScreenState extends State<RoiDashboardScreen> {
                               trailing: Chip(
                                 label: Text(data['riskLevel']?.toString().toUpperCase() ?? 'N/A'),
                                 backgroundColor: data['riskLevel'] == 'high' 
-                                  ? Colors.red.withOpacity(0.2) 
-                                  : Colors.orange.withOpacity(0.2),
+                                  ? Colors.red.withValues(alpha: 0.2) 
+                                  : Colors.orange.withValues(alpha: 0.2),
                               ),
                             );
                           },

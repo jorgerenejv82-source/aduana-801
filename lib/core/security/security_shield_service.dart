@@ -34,7 +34,7 @@ class SecurityShieldService {
         onUnofficialStore: () => _handleThreat('Installed from Unofficial Store'),
       );
 
-      Talsec.instance.attachListener(callback);
+      await Talsec.instance.attachListener(callback);
       await Talsec.instance.start(config);
       log('Shield Security initialized');
     } catch (e, stackTrace) {

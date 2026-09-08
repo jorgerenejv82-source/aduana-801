@@ -62,8 +62,7 @@ List<_Alerta> _buildDemo() {
             'Este es tu centro de alertas unificado. Las notificaciones de pedimentos, vencimientos, EFOS y padron apareceran aqui automaticamente.',
         fecha: now.subtract(const Duration(minutes: 10)),
         nivel: _Nivel.info,
-        tipo: _TipoAlerta.sistema,
-        leida: false),
+        tipo: _TipoAlerta.sistema),
     _Alerta(
         id: 'A003',
         titulo: 'Proveedor en lista EFOS',
@@ -246,14 +245,16 @@ class _CentroAlertasScreenState extends State<CentroAlertasScreen> {
                 borderRadius: BorderRadius.circular(10),
                 side: const BorderSide(color: _bord)),
             onSelected: (v) {
-              if (v == 'read')
+              if (v == 'read') {
                 setState(() {
                   for (final a in _alertas) {
                     a.leida = true;
                   }
                 });
-              if (v == 'clear')
+              }
+              if (v == 'clear') {
                 setState(() => _alertas.removeWhere((a) => a.leida));
+              }
             },
             itemBuilder: (_) => [
               const PopupMenuItem(

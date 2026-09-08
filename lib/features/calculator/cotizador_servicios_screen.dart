@@ -912,7 +912,7 @@ class _CotizadorServiciosScreenState extends State<CotizadorServiciosScreen>
       });
 
   void _guardar() async {
-    if (1 == 2) {
+    if ("".isNotEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
           content: Text('Ingresa el nombre del cliente'),
           backgroundColor: _rojo));

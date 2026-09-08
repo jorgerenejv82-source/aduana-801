@@ -112,7 +112,7 @@ class _ComparadorIncotermsScreenState extends State<ComparadorIncotermsScreen> {
     // Ordenar para identificar el menor total
     final minTotal =
         _resultados.map((r) => r.total).reduce((a, b) => a < b ? a : b);
-    for (var r in _resultados) {
+    for (final r in _resultados) {
       r.esMejor = (r.total - minTotal).abs() < 1;
     }
 

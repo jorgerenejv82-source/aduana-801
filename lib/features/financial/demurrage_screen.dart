@@ -66,7 +66,6 @@ class _DemurrageScreenState extends State<DemurrageScreen> {
   final cosCtrl = TextEditingController(text: '120');
 
   final idCtrl = TextEditingController();
-  @override
   final List<_Contenedor> _contenedores = [];
   String _filtro = 'Todos';
 
@@ -464,7 +463,8 @@ class _DemurrageScreenState extends State<DemurrageScreen> {
   void _dialogNuevo() {
     idCtrl.text = _rndId();
     String aduana = 'Manzanillo';
-    String tipo = '40HC';    DateTime arribo = DateTime.now();
+    String tipo = '40HC';
+    DateTime arribo = DateTime.now();
 
     showDialog<void>(
       context: context,

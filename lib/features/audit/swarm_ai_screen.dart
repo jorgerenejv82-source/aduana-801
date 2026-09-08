@@ -102,7 +102,6 @@ class _SwarmAiScreenState extends State<SwarmAiScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Expanded(
-              flex: 1,
               child: _buildDropZone(),
             ),
             const SizedBox(width: 24),
@@ -159,7 +158,7 @@ class _SwarmAiScreenState extends State<SwarmAiScreen> {
         decoration: BoxDecoration(
           color: Colors.black87,
           borderRadius: BorderRadius.circular(12),
-          border: Border.all(color: AppColors.gold.withOpacity(0.3)),
+          border: Border.all(color: AppColors.gold.withValues(alpha: 0.3)),
         ),
         child: SingleChildScrollView(
           child: Text(
@@ -172,7 +171,7 @@ class _SwarmAiScreenState extends State<SwarmAiScreen> {
 
     // Reporte Final
     final r = _finalReport!;
-    Color rColor = r.riskLevel == 'high' ? AppColors.red : (r.riskLevel == 'medium' ? Colors.orange : AppColors.green);
+    final Color rColor = r.riskLevel == 'high' ? AppColors.red : (r.riskLevel == 'medium' ? Colors.orange : AppColors.green);
 
     return Container(
       padding: const EdgeInsets.all(24),

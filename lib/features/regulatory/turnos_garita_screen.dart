@@ -578,7 +578,7 @@ class _TurnosGaritaScreenState extends State<TurnosGaritaScreen>
                                                                   primary:
                                                                       _ambar)),
                                                   child: ch!));
-                                          if (d != null)
+                                          if (d != null) {
                                             ss(() {
                                               inicioT = DateTime(
                                                   inicioT.year,
@@ -587,6 +587,7 @@ class _TurnosGaritaScreenState extends State<TurnosGaritaScreen>
                                                   d.hour,
                                                   d.minute);
                                             });
+                                          }
                                         },
                                         child: Container(
                                             padding: const EdgeInsets.symmetric(
@@ -625,7 +626,7 @@ class _TurnosGaritaScreenState extends State<TurnosGaritaScreen>
                                                                   primary:
                                                                       _ambar)),
                                                   child: ch!));
-                                          if (d != null)
+                                          if (d != null) {
                                             ss(() {
                                               finT = DateTime(
                                                   finT.year,
@@ -634,6 +635,7 @@ class _TurnosGaritaScreenState extends State<TurnosGaritaScreen>
                                                   d.hour,
                                                   d.minute);
                                             });
+                                          }
                                         },
                                         child: Container(
                                             padding: const EdgeInsets.symmetric(
